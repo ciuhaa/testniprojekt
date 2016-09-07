@@ -1,0 +1,158 @@
+.header{
+
+  
+
+  
+}
+img{
+  
+	margin: 25px auto 20px;
+	height: 38px;
+	width: 116px;
+	display:block;
+  
+}
+h1{
+ 
+	text-align: center;
+	font-weight: 300;
+	color: #555;
+	font-family: 'Open Sans', arial;
+	font-size: 38px;
+	margin-bottom: 15px;
+}
+h2{
+	margin-bottom: 15px;
+	font-family: 'Open Sans', arial;
+	color: #555;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: center;
+}
+.maska{
+	margin-left:auto;
+	margin-right:auto;
+}
+#ozadje{
+	position:relative;
+	width:360px;
+	height:320px;
+	background-color:#f2f2f2;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+ 
+}
+.ikona{
+	position:relative;
+	padding-top:50px;
+	padding-left:auto;
+	padding-right:auto;
+ 
+
+
+}
+#vpis{
+    margin-top: 20px;
+    margin-left:30px ;
+	height: 40px;
+    width: 300px;
+    border:2px solid grey;
+	position: absolute;
+}
+#naprej{
+    background-color: #4d94ff;
+    color: white;
+    height: 40px;
+    width: 308px;
+    margin-top:70px;
+    margin-left: 28px;
+    margin-right: ;
+    padding-bottom: 5px;
+    text-align:center;
+    position: relative;
+    font-weight: 700;
+
+}
+#naprej:hover{
+	background-color: #1a8cff;
+}
+#pomoc{
+	position:relative;
+	color:#1a8cff;
+	margin-left:210px;
+ 
+}
+.ustvari{
+	color:red;
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+
+
+
+}
+.enotni{
+	margin: 0 0 10px;
+	color: #555;
+	font-size: 14px;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	margin-bottom:60px:
+}
+.logo{
+	position:relative;
+}
+.footer{
+	position:relative;
+	padding-top: 4px;
+	margin-left:0;
+	font-size: .85em;
+	line-height: 0;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+
+}
+}
+#left{
+	position:absolute;
+	text-align:left:
+	max-width: 80%;
+	min-height: 16px;
+	padding-left: 0;
+	font-size: .85em;
+	white-space: nowrap;
+	line-height: 0;
+	font-family: Arial, sans-serif;
+	color: #404040;
+	display: inline;
+}
+li{
+	color: #737373;
+	display: inline;
+	padding: 0;
+	padding-right: 1.5em;
+	font-size: .85em;
+	white-space: nowrap;
+	line-height: 0;
+
+}
+a{
+	color: #737373;
+	cursor: pointer;
+	text-decoration: none;
+
+}
+a:hoover{
+	cursor: pointer;
+	text-decoration: none;
+}
+a:visited{
+	cursor: pointer;
+	text-decoration: none;
+}
+#right{
+	font-size: .85em;  
+	white-space: nowrap;
+	line-height: 0;
+}
